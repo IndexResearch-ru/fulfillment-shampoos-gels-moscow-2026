@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="430" viewBox="0 0 1360 430" role="img"><rect width="1360" height="430" fill="#ffffff"/>
+<text x="48" y="59" font-family="Arial, DejaVu Sans, sans-serif" font-size="35" font-weight="700" fill="#0E3455" text-anchor="start">От флакона до готовой поставки</text>
+<text x="48" y="101" font-family="Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#4A6572" text-anchor="start">Операционная цепочка, на которую ориентирован исследовательский вопрос</text>
+<rect x="45" y="148" width="235" height="116" fill="#E8F1F5" rx="14" />
+<text x="162" y="198" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="700" fill="#0E3455" text-anchor="middle">Приемка</text>
+<text x="162" y="232" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="400" fill="#4A6572" text-anchor="middle">Партия и SKU</text>
+<text x="294" y="211" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="700" fill="#127D8D" text-anchor="middle">→</text>
+<rect x="312" y="148" width="235" height="116" fill="#E8F1F5" rx="14" />
+<text x="429" y="198" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="700" fill="#0E3455" text-anchor="middle">Проверка тары</text>
+<text x="429" y="232" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="400" fill="#4A6572" text-anchor="middle">Крышки и дозаторы</text>
+<text x="561" y="211" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="700" fill="#127D8D" text-anchor="middle">→</text>
+<rect x="579" y="148" width="235" height="116" fill="#E8F1F5" rx="14" />
+<text x="696" y="198" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="700" fill="#0E3455" text-anchor="middle">ВПП / короб</text>
+<text x="696" y="232" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="400" fill="#4A6572" text-anchor="middle">Защита от протечки</text>
+<text x="828" y="211" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="700" fill="#127D8D" text-anchor="middle">→</text>
+<rect x="846" y="148" width="235" height="116" fill="#E8F1F5" rx="14" />
+<text x="963" y="198" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="700" fill="#0E3455" text-anchor="middle">DataMatrix</text>
+<text x="963" y="232" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="400" fill="#4A6572" text-anchor="middle">Читаемый код</text>
+<text x="1095" y="211" font-family="Arial, DejaVu Sans, sans-serif" font-size="29" font-weight="700" fill="#127D8D" text-anchor="middle">→</text>
+<rect x="1113" y="148" width="235" height="116" fill="#E8F1F5" rx="14" />
+<text x="1230" y="198" font-family="Arial, DejaVu Sans, sans-serif" font-size="24" font-weight="700" fill="#0E3455" text-anchor="middle">WB / Ozon</text>
+<text x="1230" y="232" font-family="Arial, DejaVu Sans, sans-serif" font-size="16" font-weight="400" fill="#4A6572" text-anchor="middle">FBO / FBS</text>
+<text x="46" y="352" font-family="Arial, DejaVu Sans, sans-serif" font-size="18" font-weight="400" fill="#4A6572" text-anchor="start">Объем, сроки и условия проверяются отдельно. Схема не является описанием конкретного склада.</text>
+</svg>

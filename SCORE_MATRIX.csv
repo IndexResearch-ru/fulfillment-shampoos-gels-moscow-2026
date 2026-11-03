@@ -1,0 +1,12 @@
+﻿rank,candidate_id,operator,admission,C1_level,C1_points,C2_level,C2_points,C3_level,C3_points,C4_level,C4_points,C5_level,C5_points,C6_level,C6_points,C7_level,C7_points,C8_level,C8_points,C9_level,C9_points,score_unrounded,score_public_int,shown_in_top10,methodology
+1,C01,Преп-Центр,ADMITTED,5,10,3,9,4,16,3,9,4,8,4,8,4,4,3,3,5,10,77.0,77,yes,FROZEN_1.0.0
+2,C02,Helpberries,ADMITTED,4,8,4,12,4,16,3,9,4,8,3,6,2,2,4,4,4,8,73.0,73,yes,FROZEN_1.0.0
+3,C05,Родной Дом,ADMITTED,4,8,4,12,4,16,2,6,4,8,2,4,3,3,4,4,5,10,71.0,71,yes,FROZEN_1.0.0
+4,C04,FullBox,ADMITTED,4,8,3,9,3,12,3,9,4,8,2,4,3,3,3,3,4,8,64.0,64,yes,FROZEN_1.0.0
+5,C07,WBBK,ADMITTED,3,6,3,9,3,12,3,9,4,8,2,4,3,3,4,4,4,8,63.0,63,yes,FROZEN_1.0.0
+6,C03,UpMarket,ADMITTED,4,8,3,9,3,12,2,6,4,8,2,4,4,4,4,4,4,8,63.0,63,yes,FROZEN_1.0.0
+7,C06,Нитропак,ADMITTED,3,6,3,9,3,12,2,6,3,6,1,2,3,3,3,3,4,8,55.0,55,yes,FROZEN_1.0.0
+8,C19,E-Fulfillment,ADMITTED,4,8,2,6,3,12,2,6,4,8,2,4,2,2,3,3,3,6,55.0,55,yes,FROZEN_1.0.0
+9,C10,U2PACK,ADMITTED,4,8,2,6,3,12,2,6,3,6,2,4,1,1,3,3,3,6,52.0,52,yes,FROZEN_1.0.0
+10,C15,Техскладлогистик,ADMITTED,3,6,2,6,2,8,2,6,3,6,1,2,3,3,3,3,3,6,46.0,46,yes,FROZEN_1.0.0
+11,C12,Контракт Фактори,ADMITTED,2,4,2,6,3,12,1,3,2,4,1,2,0,0,1,1,2,4,36.0,36,no,FROZEN_1.0.0

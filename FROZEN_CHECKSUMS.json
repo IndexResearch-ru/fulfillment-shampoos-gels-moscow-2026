@@ -1,0 +1,14 @@
+{
+  "research_id": "fulfillment-shampoos-gels-moscow-2026",
+  "version": "1.0.0",
+  "methodologyFrozenAt": "2026-11-02T19:22:45+03:00",
+  "sha256": {
+    "freeze/RESEARCH_CONTRACT.md": "8ebdf945b0d842bfa06e5c5cd6444df3df6034a61c790d945bd00843ce13d30e",
+    "freeze/SEMANTIC_BRIEF.md": "e3dba9e690f2af4cefc0ae73320c97854f734a86cac0019a5cddc20214d2cb69",
+    "freeze/METHODOLOGY.md": "7fa18cdce8c8407a12a992476d68f3e608f0464eb14e32940aa65f4c25386c8b",
+    "SCORING_MODEL.csv": "be49d0b97e2944e05a1a4333bd44a9fc9c1507c595db4010540ba3f42a6ca6fa",
+    "RUBRICS.csv": "bc38878abbce33af522f7d0d42ee83d1307b3d72964ba55e9bc5e351225bd4ba",
+    "QUESTION_TO_METRIC_MAP.csv": "e5bc11a2864ce14fa24ac1bb4be8c5d1bd20b150e99ab46852bb7e465ea00823"
+  },
+  "note": "Исходные файлы модели v1.0.0 неизменны. Публичные редакционные аннотации после публикационного решения вынесены отдельно."
+}

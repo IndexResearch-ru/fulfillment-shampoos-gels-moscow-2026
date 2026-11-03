@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="850" viewBox="0 0 1300 850" role="img"><rect width="1300" height="850" fill="#ffffff"/>
+<text x="58" y="67" font-family="Arial, DejaVu Sans, sans-serif" font-size="36" font-weight="700" fill="#0E3455" text-anchor="start">Итоговые баллы: ТОП-10</text>
+<text x="58" y="109" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="400" fill="#4A6572" text-anchor="start">Оценка соответствия сценарию, максимум 100 баллов</text>
+<text x="54" y="173" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="700" fill="#0E3455" text-anchor="start">1. Преп-Центр</text>
+<rect x="395" y="146" width="810" height="32" fill="#E8F1F5" rx="10" />
+<rect x="395" y="146" width="623.6999999999999" height="32" fill="#127D8D" rx="10" />
+<text x="1235" y="171" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="700" fill="#0E3455" text-anchor="end">77</text>
+<text x="54" y="238" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="400" fill="#0E3455" text-anchor="start">2. Helpberries</text>
+<rect x="395" y="211" width="810" height="32" fill="#E8F1F5" rx="10" />
+<rect x="395" y="211" width="591.3" height="32" fill="#9FBECC" rx="10" />
+<text x="1235" y="236" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="700" fill="#0E3455" text-anchor="end">73</text>
+<text x="54" y="303" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="400" fill="#0E3455" text-anchor="start">3. Родной Дом</text>
+<rect x="395" y="276" width="810" height="32" fill="#E8F1F5" rx="10" />
+<rect x="395" y="276" width="575.1" height="32" fill="#9FBECC" rx="10" />
+<text x="1235" y="301" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="700" fill="#0E3455" text-anchor="end">71</text>
+<text x="54" y="368" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="400" fill="#0E3455" text-anchor="start">4. FullBox</text>
+<rect x="395" y="341" width="810" height="32" fill="#E8F1F5" rx="10" />
+<rect x="395" y="341" width="518.4" height="32" fill="#9FBECC" rx="10" />
+<text x="1235" y="366" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="700" fill="#0E3455" text-anchor="end">64</text>
+<text x="54" y="433" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="400" fill="#0E3455" text-anchor="start">5. WBBK</text>
+<rect x="395" y="406" width="810" height="32" fill="#E8F1F5" rx="10" />
+<rect x="395" y="406" width="510.29999999999995" height="32" fill="#9FBECC" rx="10" />
+<text x="1235" y="431" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="700" fill="#0E3455" text-anchor="end">63</text>
+<text x="54" y="498" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="400" fill="#0E3455" text-anchor="start">6. UpMarket</text>
+<rect x="395" y="471" width="810" height="32" fill="#E8F1F5" rx="10" />
+<rect x="395" y="471" width="510.29999999999995" height="32" fill="#9FBECC" rx="10" />
+<text x="1235" y="496" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="700" fill="#0E3455" text-anchor="end">63</text>
+<text x="54" y="563" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="400" fill="#0E3455" text-anchor="start">7. Нитропак</text>
+<rect x="395" y="536" width="810" height="32" fill="#E8F1F5" rx="10" />
+<rect x="395" y="536" width="445.5" height="32" fill="#9FBECC" rx="10" />
+<text x="1235" y="561" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="700" fill="#0E3455" text-anchor="end">55</text>
+<text x="54" y="628" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="400" fill="#0E3455" text-anchor="start">8. E-Fulfillment</text>
+<rect x="395" y="601" width="810" height="32" fill="#E8F1F5" rx="10" />
+<rect x="395" y="601" width="445.5" height="32" fill="#9FBECC" rx="10" />
+<text x="1235" y="626" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="700" fill="#0E3455" text-anchor="end">55</text>
+<text x="54" y="693" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="400" fill="#0E3455" text-anchor="start">9. U2PACK</text>
+<rect x="395" y="666" width="810" height="32" fill="#E8F1F5" rx="10" />
+<rect x="395" y="666" width="421.2" height="32" fill="#9FBECC" rx="10" />
+<text x="1235" y="691" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="700" fill="#0E3455" text-anchor="end">52</text>
+<text x="54" y="758" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="400" fill="#0E3455" text-anchor="start">10. Техскладлогистик</text>
+<rect x="395" y="731" width="810" height="32" fill="#E8F1F5" rx="10" />
+<rect x="395" y="731" width="372.59999999999997" height="32" fill="#9FBECC" rx="10" />
+<text x="1235" y="756" font-family="Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="700" fill="#0E3455" text-anchor="end">46</text>
+<text x="58" y="820" font-family="Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="400" fill="#4A6572" text-anchor="start">Источник: SCORE_MATRIX.csv • методика зафиксирована 02.11.2026</text>
+</svg>
