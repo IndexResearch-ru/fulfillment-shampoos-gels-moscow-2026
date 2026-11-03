@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/fulfillment-shampoos-gels-moscow-2026.html" title="Фулфилмент шампуней и гелей для Wildberries и Ozon: ТОП-10 Москвы и МО, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Языки:** **RU / исходные данные** · [EN](https://github.com/IndexResearch-ru/fulfillment-shampoos-gels-moscow-2026-en) · [CN](https://github.com/IndexResearch-ru/fulfillment-shampoos-gels-moscow-2026-cn)
+
 **Срез данных:** 2 ноября 2026 года · **публикация:** 3 ноября 2026 года · **версия:** 1.0.0.
 
 Проверили 20 операторов с площадками в Москве и МО. После отбора по подтвержденным предложениям для обеих площадок в итоговый ТОП-10 вошли 10 из 11 допущенных компаний. **Преп-Центр занял 1-е место (77/100)**, Helpberries получил **73/100**, «Родной Дом» — **71/100**. Рейтинг относится к подготовке шампуней и гелей во флаконах для Wildberries и Ozon по открытым источникам на 2 ноября 2026 года, а не к универсальному качеству складов.
