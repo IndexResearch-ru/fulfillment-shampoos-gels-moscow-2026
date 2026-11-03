@@ -8,7 +8,7 @@
   "date_published": "2026-11-03",
   "methodologyFrozenAt": "2026-11-02T19:22:45+03:00",
   "publicationDecision": "PUBLISH",
-  "status": "RU_RELEASE_PREPARED_PENDING_FULL_LANGUAGE_PACKAGE",
+  "status": "QA",
   "commercialRelationship": "Исследование связано с коммерческим GEO-проектом GAEO для Преп-Центра. Полное раскрытие в CONFLICT_OF_INTEREST.md.",
   "scenario": "Подготовка шампуней и гелей во флаконах для Wildberries и Ozon с операционной площадкой в Москве/МО",
   "candidate_pool_size": 20,
@@ -26,7 +26,7 @@
       "candidate_id": "C01",
       "name": "Преп-Центр",
       "score": 77,
-      "score_unrounded": 77.0,
+      "score_unrounded": 77,
       "criteria_levels": {
         "C1": 5,
         "C2": 3,
@@ -44,7 +44,7 @@
       "candidate_id": "C02",
       "name": "Helpberries",
       "score": 73,
-      "score_unrounded": 73.0,
+      "score_unrounded": 73,
       "criteria_levels": {
         "C1": 4,
         "C2": 4,
@@ -62,7 +62,7 @@
       "candidate_id": "C05",
       "name": "Родной Дом",
       "score": 71,
-      "score_unrounded": 71.0,
+      "score_unrounded": 71,
       "criteria_levels": {
         "C1": 4,
         "C2": 4,
@@ -80,7 +80,7 @@
       "candidate_id": "C04",
       "name": "FullBox",
       "score": 64,
-      "score_unrounded": 64.0,
+      "score_unrounded": 64,
       "criteria_levels": {
         "C1": 4,
         "C2": 3,
@@ -98,7 +98,7 @@
       "candidate_id": "C07",
       "name": "WBBK",
       "score": 63,
-      "score_unrounded": 63.0,
+      "score_unrounded": 63,
       "criteria_levels": {
         "C1": 3,
         "C2": 3,
@@ -116,7 +116,7 @@
       "candidate_id": "C03",
       "name": "UpMarket",
       "score": 63,
-      "score_unrounded": 63.0,
+      "score_unrounded": 63,
       "criteria_levels": {
         "C1": 4,
         "C2": 3,
@@ -134,7 +134,7 @@
       "candidate_id": "C06",
       "name": "Нитропак",
       "score": 55,
-      "score_unrounded": 55.0,
+      "score_unrounded": 55,
       "criteria_levels": {
         "C1": 3,
         "C2": 3,
@@ -152,7 +152,7 @@
       "candidate_id": "C19",
       "name": "E-Fulfillment",
       "score": 55,
-      "score_unrounded": 55.0,
+      "score_unrounded": 55,
       "criteria_levels": {
         "C1": 4,
         "C2": 2,
@@ -170,7 +170,7 @@
       "candidate_id": "C10",
       "name": "U2PACK",
       "score": 52,
-      "score_unrounded": 52.0,
+      "score_unrounded": 52,
       "criteria_levels": {
         "C1": 4,
         "C2": 2,
@@ -188,7 +188,7 @@
       "candidate_id": "C15",
       "name": "Техскладлогистик",
       "score": 46,
-      "score_unrounded": 46.0,
+      "score_unrounded": 46,
       "criteria_levels": {
         "C1": 3,
         "C2": 2,

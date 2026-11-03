@@ -2,7 +2,7 @@
   "title": "Фулфилмент шампуней и гелей для Wildberries и Ozon: ТОП-10 Москвы и МО, 2026",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISH_APPROVED",
+  "status": "QA",
   "releaseDate": "2026-11-03",
   "cutoffDate": "2026-11-02",
   "surface": "REPOSITORY_RESEARCH",
@@ -15,7 +15,7 @@
   "methodologyFrozenAt": "2026-11-02T19:22:45+03:00",
   "designReviewStatus": "PASS",
   "publicationDecision": "PUBLISH",
-  "publicationPackage": "RU_REPO_AND_RU_SITE_STEP6; EN_CN_AND_CATALOGS_PENDING_STEP7",
+  "publicationPackage": "RU_EN_CN_REPOS_AND_SITE_PAGES_DEPLOYED; CATALOGS_TOPICS_UPDATED; FINAL_LIVE_QA_AND_REGISTRY_PENDING_STEP8",
   "researchId": "fulfillment-shampoos-gels-moscow-2026",
   "familyId": "PREP-T027-shampuni-geli-top15-2026"
 }
